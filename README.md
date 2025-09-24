@@ -1,7 +1,3 @@
-Rõ rồi 👍. Mình sẽ viết một bài **giới thiệu tổng quát bằng tiếng Việt**, nhưng **tiêu đề tiếng Anh** để tránh lỗi font trên GitHub, kèm vài ví dụ điển hình, không lặp lại hết tất cả code chi tiết (vì đã có trong file đính kèm).
-
----
-
 # 🔍 ScriptHelper.RegExp – COM DLL for VBA Regular Expressions
 
 **ScriptHelper.RegExp** là một COM DLL viết bằng Delphi, thay thế hoàn toàn **VBScript.RegExp**, đặc biệt hữu ích trên các hệ điều hành Windows mới (10/11) nơi Microsoft đã loại bỏ `vbscript.dll`.
