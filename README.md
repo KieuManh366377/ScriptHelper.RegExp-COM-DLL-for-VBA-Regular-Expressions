@@ -70,4 +70,6 @@ Nếu bạn đang duy trì macro VBA cũ hoặc cần Regex trong VBA trên Wind
 
 Các ví dụ chi tiết hơn đã có trong file **Demo VBA** đi kèm DLL, bạn có thể mở ra để thử tất cả tính năng: tìm kiếm, thay thế, tách chuỗi, kiểm tra ngày tháng, email, URL…
 
-
+---
+RegXHelper là thư viện DLL miễn phí, viết bằng C++ Builder, cung cấp giao diện COM tương thích với VB6/VBA để xử lý biểu thức chính quy (Regular Expressions) một cách mạnh mẽ và dễ sử dụng.
+https://github.com/KieuManh366377/RegXHelper-COM-DLL-for-Regular-Expressions-in-VBA-VB6/tree/main
